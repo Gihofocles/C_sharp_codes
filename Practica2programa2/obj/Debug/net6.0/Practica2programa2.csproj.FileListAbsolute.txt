@@ -1,0 +1,15 @@
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\bin\Debug\net6.0\Practica2programa2.exe
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\bin\Debug\net6.0\Practica2programa2.deps.json
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\bin\Debug\net6.0\Practica2programa2.runtimeconfig.json
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\bin\Debug\net6.0\Practica2programa2.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\bin\Debug\net6.0\Practica2programa2.pdb
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.csproj.AssemblyReference.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.AssemblyInfoInputs.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.AssemblyInfo.cs
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.csproj.CoreCompileInputs.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\refint\Practica2programa2.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.pdb
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\Practica2programa2.genruntimeconfig.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica2programa2\obj\Debug\net6.0\ref\Practica2programa2.dll

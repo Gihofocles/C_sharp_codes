@@ -1,0 +1,17 @@
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\bin\Debug\net6.0-windows\clc.exe
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\bin\Debug\net6.0-windows\clc.deps.json
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\bin\Debug\net6.0-windows\clc.runtimeconfig.json
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\bin\Debug\net6.0-windows\clc.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\bin\Debug\net6.0-windows\clc.pdb
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.csproj.AssemblyReference.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.Form1.resources
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.csproj.GenerateResource.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.AssemblyInfoInputs.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.AssemblyInfo.cs
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.csproj.CoreCompileInputs.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\refint\clc.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.pdb
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\clc.genruntimeconfig.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\clc\obj\Debug\net6.0-windows\ref\clc.dll

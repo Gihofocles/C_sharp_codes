@@ -1,0 +1,17 @@
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.csproj.AssemblyReference.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.Form1.resources
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.csproj.GenerateResource.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.AssemblyInfoInputs.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.AssemblyInfo.cs
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.csproj.CoreCompileInputs.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\bin\Debug\net6.0-windows\Practica6.exe
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\bin\Debug\net6.0-windows\Practica6.deps.json
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\bin\Debug\net6.0-windows\Practica6.runtimeconfig.json
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\bin\Debug\net6.0-windows\Practica6.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\bin\Debug\net6.0-windows\Practica6.pdb
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\refint\Practica6.dll
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.pdb
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\Practica6.genruntimeconfig.cache
+E:\Programas\Onedrive\upiita\3 semestre\progra\Practica6\obj\Debug\net6.0-windows\ref\Practica6.dll

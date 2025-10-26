@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9moottsO7iVoZU5nb7M61kubmVFX2eaNyvcBLsOegFQnR/ZN+YPbAJmmuxqT8wQopcNDQ4AfPB1sSQ121JhYXA==",
+  "success": true,
+  "projectFilePath": "E:\\Programas\\Onedrive\\upiita\\3 semestre\\progra\\Practica7\\Practica7\\Practica7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\opencvsharp4\\4.6.0.20220608\\opencvsharp4.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\opencvsharp4.runtime.win\\4.6.0.20220608\\opencvsharp4.runtime.win.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\opencvsharp4.windows\\4.6.0.20220608\\opencvsharp4.windows.4.6.0.20220608.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
